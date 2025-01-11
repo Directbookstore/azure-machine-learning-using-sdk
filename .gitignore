@@ -1,2 +1,6 @@
 Users/
 *.pkl
+*.csv
+*.amltmp
+.ipynb_checkpoints/
+__pycache__/
